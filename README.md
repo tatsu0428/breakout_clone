@@ -1,2 +1,5 @@
-# breakout_clone
+# ブロック崩しゲーム
+
+block.html起動でゲーム開始します．
+
  
